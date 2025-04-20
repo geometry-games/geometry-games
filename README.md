@@ -2,7 +2,7 @@
 
 ![Geometry Dash](https://raw.githubusercontent.com/geometry-games/geometry-games/refs/heads/main/geometry-dash.png "Geometry Dash")
 
-👉👉 Click to play: [Geometry Dash](https://geometrydashgames.com/ "Geometry Dash")
+👉👉 Click to play: [Geometry Dash](https://geometrydashgames.io/ "Geometry Dash")
 ## Enter the World of Geometry Dash
 
 Step into Geometry Dash - the ultimate fusion of music and precision platforming! Geometry Dash revolutionizes mobile gaming with its heart-racing electronic beats and neon-drenched obstacle courses. This addictive phenomenon challenges players to conquer rhythm-synced challenges across countless Geometry Dash levels while unleashing their creative potential.
@@ -123,6 +123,6 @@ Geometry Dash enforces strict content policies:
 Transform your mobile device into a rhythm gaming powerhouse. Whether chasing leaderboard glory or designing viral levels, Geometry Dash offers endless possibilities. Tap into the beat - your geometric odyssey begins now!
 
 
-- [Play Geometry Dash  Now - It's Free!](https://geometrydashgames.com/)
+- [Play Geometry Dash  Now - It's Free!](https://geometrydashgames.io/)
 
   
